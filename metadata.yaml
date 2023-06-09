@@ -1,5 +1,8 @@
 _repo: Spears-of-destiny-b-A-story-of-the-first-capture-of-Constantinople_70872
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70872-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Smith, Arthur D. Howden (Arthur Douglas Howden)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52393
     wikipedia: https://en.wikipedia.org/wiki/Arthur_D._Howden_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70872#Spears-of-destiny-b-A-story-of-the-first-capture-of-Constantinople
 gutenberg_issued: '2023-05-27'
 identifiers:
   gutenberg: '70872'
